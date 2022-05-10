@@ -2,3 +2,9 @@ Have you ever climb the mountain?
 Have you ever crossed the sea?
 Take a look around the corner
 and listen to your heartbeat.
+
+--------------
+There is a text for new feature
+
+--------------
+Text for second commit into the feature1
