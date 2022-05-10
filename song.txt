@@ -5,3 +5,6 @@ and listen to your heartbeat.
 
 --------------
 There is a text for new feature
+
+--------------
+Text for second commit into the feature1
